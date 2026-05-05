@@ -1,0 +1,22 @@
+# Unity Standard Ignores
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Machine Learning Models
+results/
+DroneRL*_Build/
+DroneRL*_Build
+*.zip
+*.pt
+
+# Assets (cause they take up a lot of space)
+/[Aa]ssets/
+*.psd
+*.tiff
+*.tga
+*.exr
